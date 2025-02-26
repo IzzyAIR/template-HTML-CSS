@@ -8,4 +8,3 @@
 - **Bootstrap** – адаптивная верстка и UI-компоненты
 - **Swiper.js** – слайдер для контента
 
-/project-root │── /css │ ├── styles.css │ ├── bootstrap.min.css │ ├── swiper-bundle.min.css │── /js │ ├── main.js │ ├── bootstrap.bundle.min.js │ ├── swiper-bundle.min.js │── /assets │ ├── images/ │ ├── fonts/ │── index.html │── about.html │── contact.html │── README.md
